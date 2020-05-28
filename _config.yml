@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Ganesh Yallankar"
   avatar           : "/assets/images/bio.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Tempe"
   email            :
   links:
     - label: "Email"
